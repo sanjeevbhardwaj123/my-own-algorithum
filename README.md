@@ -1,1 +1,2 @@
-# my-own-algorithum
+# collisionAlgorithm
+Algorithm to detect collision between two objects
